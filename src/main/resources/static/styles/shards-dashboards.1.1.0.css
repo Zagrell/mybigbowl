@@ -3890,15 +3890,15 @@ label {
 
 .navbar-light .navbar-brand {
   font-weight: 500;
-  color: #3D5170; }
+  color: #4b703d; }
 
 .nav-link {
   font-size: 0.8125rem;
   font-weight: 400; }
   .nav-link-icon {
-    color: #818EA3; }
+    color: #88a381; }
     .nav-link-icon:hover, .nav-link-icon:focus {
-      color: #66748b; }
+      color: #6f8b66; }
     .nav-link-icon__wrapper {
       position: relative; }
     .nav-link-icon i {
@@ -3912,7 +3912,7 @@ label {
   .badge-accent[href]:hover, .badge-accent[href]:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #0062cc; }
+    background-color: #52cc00; }
 
 .badge-outline-accent {
   background: none;

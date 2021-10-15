@@ -140,7 +140,7 @@ public class ArchitectureTest {
         BeverageRepo beverageRepo = beverageService.getBeverageRepo();
         assertNotNull(beverageRepo);
 
-        JdbcTemplate template = beverageRepo.getTemplate();
+        JdbcTemplate template = beverageRepo.getJdbcTemplate();
         assertNotNull(template);
     }
 }
